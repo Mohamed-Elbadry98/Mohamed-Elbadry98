@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mohamed Fathy
 
-<!--
-**Mohamed-Elbadry98/Mohamed-Elbadry98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HSE Supervisor | HSE Data Analysis | Safety Observation Systems
 
-Here are some ideas to get you started:
+I combine field HSE experience with a Computer Science background to turn safety observations into clear reports, useful dashboards, and practical workflows. My work focuses on observation tracking, risk classification, corrective action follow-up, and improving how safety data moves from Excel into operational systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **HSE dashboards:** Daily trends, open and closed observations, risk levels, unsafe acts and conditions, and area performance.
+- **Excel data workflows:** Structured observation logs, validation, formulas, quality checks, and reporting.
+- **Safety observation review:** Clear classifications and practical corrective actions based on the full observation context.
+- **Process automation:** Exploring repeatable workflows between Excel and SAP Fiori for observation registration and follow-up.
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| HSE
