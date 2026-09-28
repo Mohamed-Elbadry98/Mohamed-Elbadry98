@@ -25,4 +25,8 @@ I combine field HSE experience with a Computer Science background to turn safety
 
 `Excel` · `Power BI` · `HSE Reporting` · `Data Cleaning` · `Dashboard Design` · `Safety Observations` · `SAP Fiori Workflows`
 
+## Connect
+
+[LinkedIn — Mohamed Fathy](https://www.linkedin.com/in/mohamedfathy-elbadry-8247a920b)
+
 > Portfolio examples use fictional or anonymized data. No confidential site records or credentials are shared.
