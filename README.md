@@ -15,11 +15,11 @@ I combine field HSE experience with a Computer Science background to turn safety
 
 | Project | What it demonstrates |
 | --- | --- |
-| HSE Observation Dashboard | An interactive Excel dashboard using fictional observation data and daily KPIs. |
+| [HSE Observation Dashboard](https://github.com/Mohamed-Elbadry98/hse-observation-dashboard-portfolio) | Interactive Excel dashboard with 360 fictional observations, filters, and HSE KPIs. |
 | Safety Observation Classification | A documented approach to reviewing findings, classifying risks, and tracking corrective actions. |
 | Excel to SAP Fiori Workflow | A demonstration of the process design for registering observations and capturing reference numbers. |
 
-*Project links and sample files will be added as they are published.*
+*The other project links will be added as they are published.*
 
 ## Tools and skills
 
